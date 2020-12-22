@@ -1,2 +1,5 @@
 # hello-world
-Getting started and feeling lost
+
+Hello. I am learning. This is what learning looks like.
+
+The end.
